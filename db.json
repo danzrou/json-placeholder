@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"firstName": "Dan",
+		"lastName": "R",
+		"age": 30,
+		"color": "red"
+	},
+	{
+		"id": 2,
+		"firstName": "Leo",
+		"lastName": "Rotshtein",
+		"age": 20,
+		"color": "green"
+	}
+]
