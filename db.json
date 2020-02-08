@@ -9,10 +9,72 @@
 		},
 		{
 			"id": 2,
-			"firstName": "Leo",
+			"firstName": "Garfield",
 			"lastName": "Rotshtein",
 			"age": 20,
 			"color": "green"
 		}
-	]
+	],
+	"products": [
+    {
+      "id": 1,
+      "name": "Fish - Base, Bouillion",
+      "type": 1,
+      "price": 2.67
+    },
+    {
+      "id": 2,
+      "name": "Lemon Grass",
+      "type": 4,
+      "price": 1.94
+    },
+    {
+      "id": 3,
+      "name": "Oil - Peanut",
+      "type": 3,
+      "price": 29.09
+    },
+    {
+      "id": 4,
+      "name": "Soup - Verve - Chipotle Chicken",
+      "type": 2,
+      "price": 36.25
+    },
+    {
+      "id": 5,
+      "name": "Muffin - Mix - Creme Brule 15l",
+      "type": 2,
+      "price": 9.72
+    },
+    {
+      "id": 6,
+      "name": "Appetizer - Crab And Brie",
+      "type": 4,
+      "price": 36.6
+    },
+    {
+      "id": 7,
+      "name": "Piping Jelly - All Colours",
+      "type": 3,
+      "price": 46.2
+    },
+    {
+      "id": 8,
+      "name": "Rum - Light, Captain Morgan",
+      "type": 3,
+      "price": 26.45
+    },
+    {
+      "id": 9,
+      "name": "Cake - Miini Cheesecake Cherry",
+      "type": 4,
+      "price": 31.6
+    },
+    {
+      "id": 10,
+      "name": "Chicken - Base",
+      "type": 3,
+      "price": 20.56
+    }
+  ]
 }
